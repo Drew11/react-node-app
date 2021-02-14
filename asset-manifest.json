@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-node-app/static/css/main.7051d9a9.chunk.css",
+    "main.js": "/react-node-app/static/js/main.5d56bee5.chunk.js",
+    "main.js.map": "/react-node-app/static/js/main.5d56bee5.chunk.js.map",
+    "runtime-main.js": "/react-node-app/static/js/runtime-main.9b7b307f.js",
+    "runtime-main.js.map": "/react-node-app/static/js/runtime-main.9b7b307f.js.map",
+    "static/js/2.84081073.chunk.js": "/react-node-app/static/js/2.84081073.chunk.js",
+    "static/js/2.84081073.chunk.js.map": "/react-node-app/static/js/2.84081073.chunk.js.map",
+    "index.html": "/react-node-app/index.html",
+    "static/css/main.7051d9a9.chunk.css.map": "/react-node-app/static/css/main.7051d9a9.chunk.css.map",
+    "static/js/2.84081073.chunk.js.LICENSE.txt": "/react-node-app/static/js/2.84081073.chunk.js.LICENSE.txt",
+    "static/media/card-center.1ab0da08.svg": "/react-node-app/static/media/card-center.1ab0da08.svg",
+    "static/media/card-left.65fdf5be.svg": "/react-node-app/static/media/card-left.65fdf5be.svg",
+    "static/media/card-right.5e103e2b.svg": "/react-node-app/static/media/card-right.5e103e2b.svg",
+    "static/media/main-page.scss": "/react-node-app/static/media/header-wave.5fe4aeb7.svg",
+    "static/media/phone-screen.9af75c77.svg": "/react-node-app/static/media/phone-screen.9af75c77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b7b307f.js",
+    "static/js/2.84081073.chunk.js",
+    "static/css/main.7051d9a9.chunk.css",
+    "static/js/main.5d56bee5.chunk.js"
+  ]
+}
