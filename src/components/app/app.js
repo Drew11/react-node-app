@@ -15,8 +15,8 @@ const App = ()=> {
     <Router>
         <div className="App">
                 <Route exact path="/" component={MainPage}/>
-                <Route path="/stats" component={Statistic}/>
-                <Route path="/csv-parser/" component={CsvParser}/>
+                <Route exact path="/stats" component={Statistic}/>
+                <Route exact path="/csv-parser" component={CsvParser}/>
         </div>
     </Router>
   );

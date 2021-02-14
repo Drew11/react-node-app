@@ -20,7 +20,6 @@ const Statistic = ()=>{
     const [dataLength, setDataLength] = useState(0);
 
     const usersOnPage = 50;
-    console.log(state)
 
     useEffect(() => {
         dispatch(fetchData(usersOnPage, paginationOptions.currentPage));
