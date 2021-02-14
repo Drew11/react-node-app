@@ -7,6 +7,7 @@ import CsvParser from '../csv-parser/csv-parser';
 import {
     BrowserRouter as Router,
     Route,
+    Redirect
 } from "react-router-dom";
 
 const App = ()=> {
@@ -14,6 +15,7 @@ const App = ()=> {
   return (
     <Router>
         <div className="App">
+                <Redirect exact from="*" to="/"/>
                 <Route exact path="/" component={MainPage}/>
                 <Route exact path="/stats" component={Statistic}/>
                 <Route exact path="/csv-parser" component={CsvParser}/>
