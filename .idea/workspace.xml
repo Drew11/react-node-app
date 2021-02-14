@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2abccb2c-f4e2-4275-939f-bc88be747d51" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="58">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -33,11 +32,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="203">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -174,13 +170,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-node-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-node-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="main-page" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,12 +263,12 @@
       <workItem from="1613114445363" duration="31122000" />
       <workItem from="1613203565535" duration="27594000" />
       <workItem from="1613256368919" duration="6488000" />
-      <workItem from="1613289814598" duration="10693000" />
+      <workItem from="1613289814598" duration="12563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468784000" />
+    <option name="totallyTimeSpent" value="470654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,7 +283,7 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49675325" visible="true" weight="0.22145878" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49675325" visible="true" weight="0.22145878" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32992035" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5063425" side_tool="true" weight="0.37883958" />
@@ -303,7 +292,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" sideWeight="0.5017065" side_tool="true" weight="0.25687104" />
       <window_info id="Structure" order="1" sideWeight="0.5019763" side_tool="true" weight="0.25687104" />
-      <window_info anchor="bottom" x="0" y="0" width="1920" height="1032" id="Terminal" order="9" sideWeight="0.4936575" visible="true" weight="0.37883958" />
+      <window_info active="true" anchor="bottom" x="0" y="0" width="1920" height="1032" id="Terminal" order="9" sideWeight="0.4936575" visible="true" weight="0.37883958" />
       <window_info id="Favorites" order="3" sideWeight="0.5032467" side_tool="true" weight="0.16437632" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32992035" />
@@ -656,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/main-page/main-page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -670,13 +652,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="203">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
