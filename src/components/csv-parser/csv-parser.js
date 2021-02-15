@@ -14,6 +14,7 @@ const CsvParser = ()=> {
 
         if(arr[arr.length - 1] !== 'csv'){
             setError("Not allowed format, try again this time *.csv only");
+            setMapTable(null);
             return;
         }
 

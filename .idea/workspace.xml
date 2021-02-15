@@ -4,10 +4,6 @@
     <list default="true" id="2abccb2c-f4e2-4275-939f-bc88be747d51" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/csv-parser/csv-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/csv-parser/csv-parser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/csv-parser/csv-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/csv-parser/csv-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/csv-parser/helpes/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/csv-parser/helpes/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/csv-parser/validators/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/csv-parser/validators/validators.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,20 +19,7 @@
     <favorites_list name="react-node-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="csv-parser.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/csv-parser/csv-parser.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,26 +145,6 @@
               <item name="react-node-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-node-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-node-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-node-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-node-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-node-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-node-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="csv-parser" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -277,12 +240,12 @@
       <workItem from="1613256368919" duration="6488000" />
       <workItem from="1613289814598" duration="35313000" />
       <workItem from="1613349015262" duration="6619000" />
-      <workItem from="1613374703954" duration="9080000" />
+      <workItem from="1613374703954" duration="10611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="509103000" />
+    <option name="totallyTimeSpent" value="510634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -295,7 +258,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49675325" visible="true" weight="0.22145878" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32992035" />
@@ -377,7 +339,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/main-page/img/phone.svg" />
     <entry file="file://$PROJECT_DIR$/src/components/chart/chart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -658,12 +619,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/csv-parser/csv-parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        <state relative-caret-position="1653">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3332" />
       </provider>
     </entry>
   </component>
