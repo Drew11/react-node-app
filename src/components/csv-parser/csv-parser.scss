@@ -67,8 +67,15 @@
             tr {
                 >td:nth-of-type(1){
                     padding: 0 20px;
+
                 }
+                td:last-child {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+               }
             }
+
         }
     }
 
@@ -86,6 +93,37 @@
             color: #b3b7e2;
             background: lavender;
         }
+    }
+}
+
+.error  {
+    width: 400px;
+    height: 100px;
+    border-radius: 4px;
+    border: 1px solid lavenderblush;
+    background: red;
+    opacity: 0.5;
+
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    button{
+        background: red;
+        width: 30px;
+        height: 30px;
+        &:hover {
+            cursor: pointer;
+            color: #b3b7e2;
+            background: red;
+        }
+    }
+
+    span {
+        font-size: 22px;
     }
 }
 
