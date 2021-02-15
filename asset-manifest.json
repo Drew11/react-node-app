@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-node-app/static/css/main.7051d9a9.chunk.css",
-    "main.js": "/react-node-app/static/js/main.46a6d65f.chunk.js",
-    "main.js.map": "/react-node-app/static/js/main.46a6d65f.chunk.js.map",
+    "main.css": "/react-node-app/static/css/main.e6e5f5fa.chunk.css",
+    "main.js": "/react-node-app/static/js/main.90a79749.chunk.js",
+    "main.js.map": "/react-node-app/static/js/main.90a79749.chunk.js.map",
     "runtime-main.js": "/react-node-app/static/js/runtime-main.9b7b307f.js",
     "runtime-main.js.map": "/react-node-app/static/js/runtime-main.9b7b307f.js.map",
     "static/js/2.0b1cb320.chunk.js": "/react-node-app/static/js/2.0b1cb320.chunk.js",
     "static/js/2.0b1cb320.chunk.js.map": "/react-node-app/static/js/2.0b1cb320.chunk.js.map",
     "index.html": "/react-node-app/index.html",
-    "static/css/main.7051d9a9.chunk.css.map": "/react-node-app/static/css/main.7051d9a9.chunk.css.map",
+    "static/css/main.e6e5f5fa.chunk.css.map": "/react-node-app/static/css/main.e6e5f5fa.chunk.css.map",
     "static/js/2.0b1cb320.chunk.js.LICENSE.txt": "/react-node-app/static/js/2.0b1cb320.chunk.js.LICENSE.txt",
     "static/media/card-center.1ab0da08.svg": "/react-node-app/static/media/card-center.1ab0da08.svg",
     "static/media/card-left.65fdf5be.svg": "/react-node-app/static/media/card-left.65fdf5be.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9b7b307f.js",
     "static/js/2.0b1cb320.chunk.js",
-    "static/css/main.7051d9a9.chunk.css",
-    "static/js/main.46a6d65f.chunk.js"
+    "static/css/main.e6e5f5fa.chunk.css",
+    "static/js/main.90a79749.chunk.js"
   ]
 }
